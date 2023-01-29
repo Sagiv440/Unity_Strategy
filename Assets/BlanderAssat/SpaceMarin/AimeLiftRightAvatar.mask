@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: AimeLiftRightAvatar
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 1
+  - m_Path: Armature/Bone
+    m_Weight: 1
+  - m_Path: Armature/Bone/FootIK_L
+    m_Weight: 0
+  - m_Path: Armature/Bone/FootIK_L/Foot_L
+    m_Weight: 0
+  - m_Path: Armature/Bone/FootIK_R
+    m_Weight: 0
+  - m_Path: Armature/Bone/FootIK_R/Foot_R
+    m_Weight: 0
+  - m_Path: Armature/Bone/HeadTargetLeftRight
+    m_Weight: 1
+  - m_Path: Armature/Bone/HeadTargetLeftRight/HaedTargetUpDown
+    m_Weight: 0
+  - m_Path: Armature/Bone/LegIK_L
+    m_Weight: 0
+  - m_Path: Armature/Bone/LegIK_R
+    m_Weight: 0
+  - m_Path: Armature/Bone/Spin1
+    m_Weight: 0
+  - m_Path: Armature/Bone/Spin1/LegTop_L
+    m_Weight: 0
+  - m_Path: Armature/Bone/Spin1/LegTop_L/LegBottom_L
+    m_Weight: 0
+  - m_Path: Armature/Bone/Spin1/LegTop_L/Nee_L
+    m_Weight: 0
+  - m_Path: Armature/Bone/Spin1/LegTop_R
+    m_Weight: 0
+  - m_Path: Armature/Bone/Spin1/LegTop_R/LegBottom_R
+    m_Weight: 0
+  - m_Path: Armature/Bone/Spin1/LegTop_R/Nee_R
+    m_Weight: 0
+  - m_Path: Armature/Bone/Spin1/Spin2
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmIK_L_LeftRight
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmIK_L_LeftRight/ArmIK_L_UpDown
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmIK_R_001
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmIK_R_001/ArmIK_R_UpDown
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_L
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_L/Hand_L
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_L/Hand_L/Fing1_L
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_L/Hand_L/Fing1_L/Fing2_L
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_L/Hand_L/Fing1_L/Fing2_L/Fing3_L
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_L/Hand_L/Mid1_L
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_L/Hand_L/Mid1_L/Mid2_L
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_L/Hand_L/Mid1_L/Mid2_L/Mid3_L
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_L/Hand_L/PInk_L
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_L/Hand_L/PInk_L/PInk2_L
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_L/Hand_L/PInk_L/PInk2_L/Pink3_L
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_L/Hand_L/Ring1_L
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_L/Hand_L/Ring1_L/RIng2_L
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_L/Hand_L/Ring1_L/RIng2_L/RIng3_L
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_L/Hand_L/thame1_L
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_L/Hand_L/thame1_L/Thame2_L
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_L/Hand_L/thame1_L/Thame2_L/Thame3_L
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_R
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_R/Hand_R_001
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_R/Hand_R_001/Fing1_R_001
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_R/Hand_R_001/Fing1_R_001/Fing2_R_001
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_R/Hand_R_001/Fing1_R_001/Fing2_R_001/Fing3_R_001
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_R/Hand_R_001/Mid1_R_001
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_R/Hand_R_001/Mid1_R_001/Mid2_R_001
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_R/Hand_R_001/Mid1_R_001/Mid2_R_001/Mid3_R_001
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_R/Hand_R_001/PInk_R_001
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_R/Hand_R_001/PInk_R_001/PInk2_R_001
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_R/Hand_R_001/PInk_R_001/PInk2_R_001/Pink3_R_001
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_R/Hand_R_001/Ring1_R_001
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_R/Hand_R_001/Ring1_R_001/RIng2_R_001
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_R/Hand_R_001/Ring1_R_001/RIng2_R_001/RIng3_R_001
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_R/Hand_R_001/thame1_R_001
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_R/Hand_R_001/thame1_R_001/Thame2_R_001
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTarget_R/Hand_R_001/thame1_R_001/Thame2_R_001/Thame3_R_001
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTop_L
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTop_L/ArmBottom_L
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTop_L/ArmTop_L_001
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTop_R
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTop_R/ArmBottom_R
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/ArmTop_R/ArmTop_R_002
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/Shalder_L
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/Shalder_R
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/Throute
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/Spin2/Spin3/Throute/Haed
+    m_Weight: 1
+  - m_Path: Armature/Bone/Spin1/SpinIK
+    m_Weight: 0
+  - m_Path: Armature/SpinTarget
+    m_Weight: 0
+  - m_Path: Bolter
+    m_Weight: 1
+  - m_Path: SpaceMarineU
+    m_Weight: 1
