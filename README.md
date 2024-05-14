@@ -11,3 +11,6 @@ A Strategy game made using `Unity 2018.2.12f1 (64-bit)` were the Player controls
 4. Capture resoce points to secure more resoces for you army
 5. Move the mouse cursor to the edges of the screen to move the camera 
 
+  # Screen Shots
+![Image_1](https://github.com/Sagiv440/Unity_Strategy/blob/main/Screenshot%20from%202024-05-14%2013-18-30.png?raw=true)
+![Image_2](https://github.com/Sagiv440/Unity_Strategy/blob/main/SpaceMarines.png?raw=true)
