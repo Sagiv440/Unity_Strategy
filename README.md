@@ -1,4 +1,4 @@
-Unity_Strategy
+Real-Time Strategy Game
 =====
 
 A Strategy game made using `Unity 2018.2.12f1 (64-bit)` were the Player controls an Army of troops and you goal is to destroy the Enemy base while Defending yours.
